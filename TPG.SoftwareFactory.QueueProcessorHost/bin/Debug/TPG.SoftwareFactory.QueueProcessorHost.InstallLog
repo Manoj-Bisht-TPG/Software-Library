@@ -1,0 +1,50 @@
+﻿Installing assembly 'E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   logfile = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.InstallLog
+   assemblypath = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe
+Rolling back assembly 'E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   logfile = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.InstallLog
+   assemblypath = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe
+Installing assembly 'E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   logfile = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.InstallLog
+   assemblypath = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe
+Installing service QueueProcessorHost...
+Service QueueProcessorHost has been successfully installed.
+Creating EventLog source QueueProcessorHost in log Application...
+Committing assembly 'E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   logfile = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.InstallLog
+   assemblypath = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe
+Uninstalling assembly 'E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.InstallLog
+   assemblypath = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe
+Removing EventLog source QueueProcessorHost.
+Service QueueProcessorHost is being removed from the system...
+Service QueueProcessorHost was successfully removed from the system.
+Installing assembly 'E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   logfile = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.InstallLog
+   assemblypath = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe
+Installing service QueueProcessorHost...
+Service QueueProcessorHost has been successfully installed.
+Creating EventLog source QueueProcessorHost in log Application...
+Committing assembly 'E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   logfile = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.InstallLog
+   assemblypath = E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.QueueProcessorHost\bin\Debug\TPG.SoftwareFactory.QueueProcessorHost.exe

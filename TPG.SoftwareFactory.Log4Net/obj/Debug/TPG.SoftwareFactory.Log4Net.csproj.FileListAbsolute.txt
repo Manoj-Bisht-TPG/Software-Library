@@ -1,0 +1,58 @@
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\log4net.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.csprojResolveAssemblyReference.cache
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\log4net.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.csprojResolveAssemblyReference.cache
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\log4net.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\log4net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\log4net.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.csprojResolveAssemblyReference.cache
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\log4net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\log4net.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Model.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\bin\Debug\TPG.SoftwareFactory.Model.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Log4Net\obj\Debug\TPG.SoftwareFactory.Log4Net.pdb

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E6C0B856-8F84-4514-A710-0C7DE9EE8E4F}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QueuedLoggingClient</RootNamespace>
+    <AssemblyName>QueuedLoggingClient</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>..\Assemblies\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Microsoft.Practices.EnterpriseLibrary.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging.Database, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder2">
+      <HintPath>..\Assemblies\Microsoft.Practices.ObjectBuilder2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=2.1.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Configuration, Version=2.1.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Interception, Version=2.1.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Microsoft.Practices.Unity.Interception.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Interception.Configuration, Version=2.1.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Microsoft.Practices.Unity.Interception.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.StaticFactory">
+      <HintPath>..\Assemblies\Microsoft.Practices.Unity.StaticFactory.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TPG.SoftwareFactory.ComponentFactory\TPG.SoftwareFactory.ComponentFactory.csproj">
+      <Project>{A97CF133-3317-4536-9A1A-0CADF9B59212}</Project>
+      <Name>TPG.SoftwareFactory.ComponentFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.Contract\TPG.SoftwareFactory.Contract.csproj">
+      <Project>{B44CC900-7D39-43CC-BC7F-52A028AB0922}</Project>
+      <Name>TPG.SoftwareFactory.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.DBQueueEngine\TPG.SoftwareFactory.DBQueueEngine.csproj">
+      <Project>{EAAA6E53-ED39-4DCB-AD1A-E0ABAF02F9B8}</Project>
+      <Name>TPG.SoftwareFactory.DBQueueEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.EntrpriseLibrary\TPG.SoftwareFactory.EnterpriseLibrary.csproj">
+      <Project>{E5B3ECEA-682A-4B6B-93BE-2C735035FE58}</Project>
+      <Name>TPG.SoftwareFactory.EnterpriseLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.FileQueueEngine\TPG.SoftwareFactory.FileQueueEngine.csproj">
+      <Project>{F8DDB763-8FA3-4C99-9B3C-94D085EF6B19}</Project>
+      <Name>TPG.SoftwareFactory.FileQueueEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.Log4Net\TPG.SoftwareFactory.Log4Net.csproj">
+      <Project>{6778DFB6-8AF2-4217-8CEE-C2887E8B2989}</Project>
+      <Name>TPG.SoftwareFactory.Log4Net</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.Logger\TPG.SoftwareFactory.Logger.csproj">
+      <Project>{DA1B087B-CCE1-4498-BDE4-30E4DEE900E9}</Project>
+      <Name>TPG.SoftwareFactory.Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.Model\TPG.SoftwareFactory.Model.csproj">
+      <Project>{F8D5A0B8-650F-4A10-BAAF-14B87D50F00C}</Project>
+      <Name>TPG.SoftwareFactory.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.QueueEngine\TPG.SoftwareFactory.QueueEngine.csproj">
+      <Project>{786168EE-ACE6-4DBE-92E3-A234AFB28D1D}</Project>
+      <Name>TPG.SoftwareFactory.QueueEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.QueueProcessor\TPG.SoftwareFactory.QueueProcessor.csproj">
+      <Project>{7B6D44ED-E1B7-4DEA-A052-19BE30AADAAC}</Project>
+      <Name>TPG.SoftwareFactory.QueueProcessor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.ServiceApp\TPG.SoftwareFactory.ServiceApp.csproj">
+      <Project>{90F36D32-6D43-4990-9926-BE2806FF2DDF}</Project>
+      <Name>TPG.SoftwareFactory.ServiceApp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.ServiceQueueEngine\TPG.SoftwareFactory.ServiceQueueEngine.csproj">
+      <Project>{637A61F2-5907-439D-BC66-F505264584A0}</Project>
+      <Name>TPG.SoftwareFactory.ServiceQueueEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.Services\TPG.SoftwareFactory.Services.csproj">
+      <Project>{8860D0D9-4BBC-42E2-ADF4-D9E23A2BDCC5}</Project>
+      <Name>TPG.SoftwareFactory.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TPG.SoftwareFactory.Service\TPG.SoftwareFactory.Service.csproj">
+      <Project>{50BA0CC6-6DAE-4C09-97C1-CE6CB22B68A8}</Project>
+      <Name>TPG.SoftwareFactory.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

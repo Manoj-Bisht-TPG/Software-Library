@@ -1,0 +1,232 @@
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll.config
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll.config
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\log4net.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.csprojResolveAssemblyReference.cache
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll.config
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\log4net.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.xml
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.csprojResolveAssemblyReference.cache
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll.config
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\log4net.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\log4net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll.config
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\log4net.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.xml
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.csprojResolveAssemblyReference.cache
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll.config
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\log4net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll.config
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Services.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\log4net.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.FileQueueEngine.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Model.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.QueueEngine.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.ComponentFactory.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.FileQueueEngine.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Logger.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Model.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.QueueEngine.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Services\obj\Debug\TPG.SoftwareFactory.Services.pdb

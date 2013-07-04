@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="LoggerService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:50980/LoggerServices.svc?xsd=xsd2" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:50980/LoggerServices.svc?xsd=xsd0" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:50980/LoggerServices.svc?xsd=xsd1" namespace="http://schemas.datacontract.org/2004/07/TPG.SoftwareFactory.Contract" />
+      <xsd:import schemaLocation="http://localhost:50980/LoggerServices.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System" />
+      <xsd:import schemaLocation="http://localhost:50980/LoggerServices.svc?xsd=xsd4" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ILogger_InfoFormatThreeArgs_InputMessage">
+    <wsdl:part name="parameters" element="tns:InfoFormatThreeArgs" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoFormatThreeArgs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InfoFormatThreeArgsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnMessage_InputMessage">
+    <wsdl:part name="parameters" element="tns:WarnMessage" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnMessage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:WarnMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnMessageException_InputMessage">
+    <wsdl:part name="parameters" element="tns:WarnMessageException" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnMessageException_OutputMessage">
+    <wsdl:part name="parameters" element="tns:WarnMessageExceptionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnFormatArg_InputMessage">
+    <wsdl:part name="parameters" element="tns:WarnFormatArg" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnFormatArg_OutputMessage">
+    <wsdl:part name="parameters" element="tns:WarnFormatArgResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnFormatParams_InputMessage">
+    <wsdl:part name="parameters" element="tns:WarnFormatParams" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnFormatParams_OutputMessage">
+    <wsdl:part name="parameters" element="tns:WarnFormatParamsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnProviderFormatParams_InputMessage">
+    <wsdl:part name="parameters" element="tns:WarnProviderFormatParams" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnProviderFormatParams_OutputMessage">
+    <wsdl:part name="parameters" element="tns:WarnProviderFormatParamsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnFormatTwoArgs_InputMessage">
+    <wsdl:part name="parameters" element="tns:WarnFormatTwoArgs" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnFormatTwoArgs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:WarnFormatTwoArgsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnFormatThreeArgs_InputMessage">
+    <wsdl:part name="parameters" element="tns:WarnFormatThreeArgs" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_WarnFormatThreeArgs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:WarnFormatThreeArgsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_TestMessage_InputMessage">
+    <wsdl:part name="parameters" element="tns:TestMessage" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_TestMessage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TestMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugMessage_InputMessage">
+    <wsdl:part name="parameters" element="tns:DebugMessage" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugMessage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DebugMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugMessageException_InputMessage">
+    <wsdl:part name="parameters" element="tns:DebugMessageException" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugMessageException_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DebugMessageExceptionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugFormatArg_InputMessage">
+    <wsdl:part name="parameters" element="tns:DebugFormatArg" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugFormatArg_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DebugFormatArgResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugFormatParams_InputMessage">
+    <wsdl:part name="parameters" element="tns:DebugFormatParams" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugFormatParams_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DebugFormatParamsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugProviderFormatParams_InputMessage">
+    <wsdl:part name="parameters" element="tns:DebugProviderFormatParams" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugProviderFormatParams_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DebugProviderFormatParamsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugFormatTwoArgs_InputMessage">
+    <wsdl:part name="parameters" element="tns:DebugFormatTwoArgs" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugFormatTwoArgs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DebugFormatTwoArgsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugFormatThreeArgs_InputMessage">
+    <wsdl:part name="parameters" element="tns:DebugFormatThreeArgs" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_DebugFormatThreeArgs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DebugFormatThreeArgsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorMessage_InputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorMessage" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorMessage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorMessageException_InputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorMessageException" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorMessageException_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorMessageExceptionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorFormatArg_InputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorFormatArg" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorFormatArg_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorFormatArgResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorFormatParams_InputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorFormatParams" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorFormatParams_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorFormatParamsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorProviderFormatParams_InputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorProviderFormatParams" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorProviderFormatParams_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorProviderFormatParamsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorFormatTwoArgs_InputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorFormatTwoArgs" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorFormatTwoArgs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorFormatTwoArgsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorFormatThreeArgs_InputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorFormatThreeArgs" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_ErrorFormatThreeArgs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorFormatThreeArgsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalMessage_InputMessage">
+    <wsdl:part name="parameters" element="tns:FatalMessage" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalMessage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FatalMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalMessageException_InputMessage">
+    <wsdl:part name="parameters" element="tns:FatalMessageException" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalMessageException_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FatalMessageExceptionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalFormatArg_InputMessage">
+    <wsdl:part name="parameters" element="tns:FatalFormatArg" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalFormatArg_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FatalFormatArgResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalFormatParams_InputMessage">
+    <wsdl:part name="parameters" element="tns:FatalFormatParams" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalFormatParams_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FatalFormatParamsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalProviderFormatParams_InputMessage">
+    <wsdl:part name="parameters" element="tns:FatalProviderFormatParams" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalProviderFormatParams_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FatalProviderFormatParamsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalFormatTwoArgs_InputMessage">
+    <wsdl:part name="parameters" element="tns:FatalFormatTwoArgs" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalFormatTwoArgs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FatalFormatTwoArgsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalFormatThreeArgs_InputMessage">
+    <wsdl:part name="parameters" element="tns:FatalFormatThreeArgs" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_FatalFormatThreeArgs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FatalFormatThreeArgsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoMessage_InputMessage">
+    <wsdl:part name="parameters" element="tns:InfoMessage" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoMessage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InfoMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoMessageException_InputMessage">
+    <wsdl:part name="parameters" element="tns:InfoMessageException" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoMessageException_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InfoMessageExceptionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoFormatArg_InputMessage">
+    <wsdl:part name="parameters" element="tns:InfoFormatArg" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoFormatArg_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InfoFormatArgResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoFormatParams_InputMessage">
+    <wsdl:part name="parameters" element="tns:InfoFormatParams" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoFormatParams_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InfoFormatParamsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoProviderFormatParams_InputMessage">
+    <wsdl:part name="parameters" element="tns:InfoProviderFormatParams" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoProviderFormatParams_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InfoProviderFormatParamsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoFormatTwoArgs_InputMessage">
+    <wsdl:part name="parameters" element="tns:InfoFormatTwoArgs" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_InfoFormatTwoArgs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InfoFormatTwoArgsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ILogger">
+    <wsdl:operation name="InfoFormatThreeArgs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/InfoFormatThreeArgs" message="tns:ILogger_InfoFormatThreeArgs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/InfoFormatThreeArgsResponse" message="tns:ILogger_InfoFormatThreeArgs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="WarnMessage">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/WarnMessage" message="tns:ILogger_WarnMessage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/WarnMessageResponse" message="tns:ILogger_WarnMessage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="WarnMessageException">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/WarnMessageException" message="tns:ILogger_WarnMessageException_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/WarnMessageExceptionResponse" message="tns:ILogger_WarnMessageException_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="WarnFormatArg">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/WarnFormatArg" message="tns:ILogger_WarnFormatArg_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/WarnFormatArgResponse" message="tns:ILogger_WarnFormatArg_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="WarnFormatParams">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/WarnFormatParams" message="tns:ILogger_WarnFormatParams_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/WarnFormatParamsResponse" message="tns:ILogger_WarnFormatParams_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="WarnProviderFormatParams">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/WarnProviderFormatParams" message="tns:ILogger_WarnProviderFormatParams_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/WarnProviderFormatParamsResponse" message="tns:ILogger_WarnProviderFormatParams_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="WarnFormatTwoArgs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/WarnFormatTwoArgs" message="tns:ILogger_WarnFormatTwoArgs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/WarnFormatTwoArgsResponse" message="tns:ILogger_WarnFormatTwoArgs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="WarnFormatThreeArgs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/WarnFormatThreeArgs" message="tns:ILogger_WarnFormatThreeArgs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/WarnFormatThreeArgsResponse" message="tns:ILogger_WarnFormatThreeArgs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TestMessage">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/TestMessage" message="tns:ILogger_TestMessage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/TestMessageResponse" message="tns:ILogger_TestMessage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DebugMessage">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/DebugMessage" message="tns:ILogger_DebugMessage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/DebugMessageResponse" message="tns:ILogger_DebugMessage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DebugMessageException">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/DebugMessageException" message="tns:ILogger_DebugMessageException_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/DebugMessageExceptionResponse" message="tns:ILogger_DebugMessageException_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DebugFormatArg">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/DebugFormatArg" message="tns:ILogger_DebugFormatArg_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/DebugFormatArgResponse" message="tns:ILogger_DebugFormatArg_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DebugFormatParams">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/DebugFormatParams" message="tns:ILogger_DebugFormatParams_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/DebugFormatParamsResponse" message="tns:ILogger_DebugFormatParams_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DebugProviderFormatParams">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/DebugProviderFormatParams" message="tns:ILogger_DebugProviderFormatParams_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/DebugProviderFormatParamsResponse" message="tns:ILogger_DebugProviderFormatParams_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DebugFormatTwoArgs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/DebugFormatTwoArgs" message="tns:ILogger_DebugFormatTwoArgs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/DebugFormatTwoArgsResponse" message="tns:ILogger_DebugFormatTwoArgs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DebugFormatThreeArgs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/DebugFormatThreeArgs" message="tns:ILogger_DebugFormatThreeArgs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/DebugFormatThreeArgsResponse" message="tns:ILogger_DebugFormatThreeArgs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ErrorMessage">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/ErrorMessage" message="tns:ILogger_ErrorMessage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/ErrorMessageResponse" message="tns:ILogger_ErrorMessage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ErrorMessageException">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/ErrorMessageException" message="tns:ILogger_ErrorMessageException_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/ErrorMessageExceptionResponse" message="tns:ILogger_ErrorMessageException_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ErrorFormatArg">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/ErrorFormatArg" message="tns:ILogger_ErrorFormatArg_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/ErrorFormatArgResponse" message="tns:ILogger_ErrorFormatArg_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ErrorFormatParams">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/ErrorFormatParams" message="tns:ILogger_ErrorFormatParams_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/ErrorFormatParamsResponse" message="tns:ILogger_ErrorFormatParams_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ErrorProviderFormatParams">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/ErrorProviderFormatParams" message="tns:ILogger_ErrorProviderFormatParams_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/ErrorProviderFormatParamsResponse" message="tns:ILogger_ErrorProviderFormatParams_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ErrorFormatTwoArgs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/ErrorFormatTwoArgs" message="tns:ILogger_ErrorFormatTwoArgs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/ErrorFormatTwoArgsResponse" message="tns:ILogger_ErrorFormatTwoArgs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ErrorFormatThreeArgs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/ErrorFormatThreeArgs" message="tns:ILogger_ErrorFormatThreeArgs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/ErrorFormatThreeArgsResponse" message="tns:ILogger_ErrorFormatThreeArgs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FatalMessage">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/FatalMessage" message="tns:ILogger_FatalMessage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/FatalMessageResponse" message="tns:ILogger_FatalMessage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FatalMessageException">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/FatalMessageException" message="tns:ILogger_FatalMessageException_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/FatalMessageExceptionResponse" message="tns:ILogger_FatalMessageException_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FatalFormatArg">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/FatalFormatArg" message="tns:ILogger_FatalFormatArg_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/FatalFormatArgResponse" message="tns:ILogger_FatalFormatArg_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FatalFormatParams">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/FatalFormatParams" message="tns:ILogger_FatalFormatParams_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/FatalFormatParamsResponse" message="tns:ILogger_FatalFormatParams_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FatalProviderFormatParams">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/FatalProviderFormatParams" message="tns:ILogger_FatalProviderFormatParams_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/FatalProviderFormatParamsResponse" message="tns:ILogger_FatalProviderFormatParams_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FatalFormatTwoArgs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/FatalFormatTwoArgs" message="tns:ILogger_FatalFormatTwoArgs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/FatalFormatTwoArgsResponse" message="tns:ILogger_FatalFormatTwoArgs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FatalFormatThreeArgs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/FatalFormatThreeArgs" message="tns:ILogger_FatalFormatThreeArgs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/FatalFormatThreeArgsResponse" message="tns:ILogger_FatalFormatThreeArgs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InfoMessage">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/InfoMessage" message="tns:ILogger_InfoMessage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/InfoMessageResponse" message="tns:ILogger_InfoMessage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InfoMessageException">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/InfoMessageException" message="tns:ILogger_InfoMessageException_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/InfoMessageExceptionResponse" message="tns:ILogger_InfoMessageException_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InfoFormatArg">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/InfoFormatArg" message="tns:ILogger_InfoFormatArg_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/InfoFormatArgResponse" message="tns:ILogger_InfoFormatArg_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InfoFormatParams">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/InfoFormatParams" message="tns:ILogger_InfoFormatParams_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/InfoFormatParamsResponse" message="tns:ILogger_InfoFormatParams_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InfoProviderFormatParams">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/InfoProviderFormatParams" message="tns:ILogger_InfoProviderFormatParams_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/InfoProviderFormatParamsResponse" message="tns:ILogger_InfoProviderFormatParams_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InfoFormatTwoArgs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/InfoFormatTwoArgs" message="tns:ILogger_InfoFormatTwoArgs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/InfoFormatTwoArgsResponse" message="tns:ILogger_InfoFormatTwoArgs_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ILogger" type="tns:ILogger">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InfoFormatThreeArgs">
+      <soap:operation soapAction="http://tempuri.org/ILogger/InfoFormatThreeArgs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WarnMessage">
+      <soap:operation soapAction="http://tempuri.org/ILogger/WarnMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WarnMessageException">
+      <soap:operation soapAction="http://tempuri.org/ILogger/WarnMessageException" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WarnFormatArg">
+      <soap:operation soapAction="http://tempuri.org/ILogger/WarnFormatArg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WarnFormatParams">
+      <soap:operation soapAction="http://tempuri.org/ILogger/WarnFormatParams" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WarnProviderFormatParams">
+      <soap:operation soapAction="http://tempuri.org/ILogger/WarnProviderFormatParams" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WarnFormatTwoArgs">
+      <soap:operation soapAction="http://tempuri.org/ILogger/WarnFormatTwoArgs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WarnFormatThreeArgs">
+      <soap:operation soapAction="http://tempuri.org/ILogger/WarnFormatThreeArgs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TestMessage">
+      <soap:operation soapAction="http://tempuri.org/ILogger/TestMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DebugMessage">
+      <soap:operation soapAction="http://tempuri.org/ILogger/DebugMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DebugMessageException">
+      <soap:operation soapAction="http://tempuri.org/ILogger/DebugMessageException" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DebugFormatArg">
+      <soap:operation soapAction="http://tempuri.org/ILogger/DebugFormatArg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DebugFormatParams">
+      <soap:operation soapAction="http://tempuri.org/ILogger/DebugFormatParams" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DebugProviderFormatParams">
+      <soap:operation soapAction="http://tempuri.org/ILogger/DebugProviderFormatParams" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DebugFormatTwoArgs">
+      <soap:operation soapAction="http://tempuri.org/ILogger/DebugFormatTwoArgs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DebugFormatThreeArgs">
+      <soap:operation soapAction="http://tempuri.org/ILogger/DebugFormatThreeArgs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorMessage">
+      <soap:operation soapAction="http://tempuri.org/ILogger/ErrorMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorMessageException">
+      <soap:operation soapAction="http://tempuri.org/ILogger/ErrorMessageException" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorFormatArg">
+      <soap:operation soapAction="http://tempuri.org/ILogger/ErrorFormatArg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorFormatParams">
+      <soap:operation soapAction="http://tempuri.org/ILogger/ErrorFormatParams" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorProviderFormatParams">
+      <soap:operation soapAction="http://tempuri.org/ILogger/ErrorProviderFormatParams" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorFormatTwoArgs">
+      <soap:operation soapAction="http://tempuri.org/ILogger/ErrorFormatTwoArgs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorFormatThreeArgs">
+      <soap:operation soapAction="http://tempuri.org/ILogger/ErrorFormatThreeArgs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FatalMessage">
+      <soap:operation soapAction="http://tempuri.org/ILogger/FatalMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FatalMessageException">
+      <soap:operation soapAction="http://tempuri.org/ILogger/FatalMessageException" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FatalFormatArg">
+      <soap:operation soapAction="http://tempuri.org/ILogger/FatalFormatArg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FatalFormatParams">
+      <soap:operation soapAction="http://tempuri.org/ILogger/FatalFormatParams" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FatalProviderFormatParams">
+      <soap:operation soapAction="http://tempuri.org/ILogger/FatalProviderFormatParams" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FatalFormatTwoArgs">
+      <soap:operation soapAction="http://tempuri.org/ILogger/FatalFormatTwoArgs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FatalFormatThreeArgs">
+      <soap:operation soapAction="http://tempuri.org/ILogger/FatalFormatThreeArgs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InfoMessage">
+      <soap:operation soapAction="http://tempuri.org/ILogger/InfoMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InfoMessageException">
+      <soap:operation soapAction="http://tempuri.org/ILogger/InfoMessageException" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InfoFormatArg">
+      <soap:operation soapAction="http://tempuri.org/ILogger/InfoFormatArg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InfoFormatParams">
+      <soap:operation soapAction="http://tempuri.org/ILogger/InfoFormatParams" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InfoProviderFormatParams">
+      <soap:operation soapAction="http://tempuri.org/ILogger/InfoProviderFormatParams" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InfoFormatTwoArgs">
+      <soap:operation soapAction="http://tempuri.org/ILogger/InfoFormatTwoArgs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="LoggerService">
+    <wsdl:port name="BasicHttpBinding_ILogger" binding="tns:BasicHttpBinding_ILogger">
+      <soap:address location="http://localhost:50980/LoggerServices.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

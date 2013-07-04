@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:50980/LoggerServices.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System" />
+  <xs:import schemaLocation="http://localhost:50980/LoggerServices.svc?xsd=xsd4" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:import schemaLocation="http://localhost:50980/LoggerServices.svc?xsd=xsd1" namespace="http://schemas.datacontract.org/2004/07/TPG.SoftwareFactory.Contract" />
+  <xs:element name="InfoFormatThreeArgs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg1" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg2" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoFormatThreeArgsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnMessage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnMessageResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnMessageException">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:anyType" />
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/System" minOccurs="0" name="exception" nillable="true" type="q1:Exception" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnMessageExceptionResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnFormatArg">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnFormatArgResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnFormatParams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="args" nillable="true" type="q2:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnFormatParamsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnProviderFormatParams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="provider" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element xmlns:q3="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="args" nillable="true" type="q3:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnProviderFormatParamsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnFormatTwoArgs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg1" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnFormatTwoArgsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnFormatThreeArgs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg1" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg2" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WarnFormatThreeArgsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TestMessage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/TPG.SoftwareFactory.Contract" minOccurs="0" name="message" nillable="true" type="q4:ObjectContainer" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TestMessageResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugMessage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugMessageResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugMessageException">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:anyType" />
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/System" minOccurs="0" name="exception" nillable="true" type="q5:Exception" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugMessageExceptionResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugFormatArg">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugFormatArgResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugFormatParams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element xmlns:q6="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="args" nillable="true" type="q6:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugFormatParamsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugProviderFormatParams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="provider" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element xmlns:q7="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="args" nillable="true" type="q7:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugProviderFormatParamsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugFormatTwoArgs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg1" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugFormatTwoArgsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugFormatThreeArgs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg1" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg2" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DebugFormatThreeArgsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorMessage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorMessageResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorMessageException">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:anyType" />
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/System" minOccurs="0" name="exception" nillable="true" type="q8:Exception" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorMessageExceptionResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorFormatArg">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorFormatArgResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorFormatParams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element xmlns:q9="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="args" nillable="true" type="q9:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorFormatParamsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorProviderFormatParams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="provider" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element xmlns:q10="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="args" nillable="true" type="q10:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorProviderFormatParamsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorFormatTwoArgs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg1" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorFormatTwoArgsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorFormatThreeArgs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg1" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg2" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ErrorFormatThreeArgsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalMessage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalMessageResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalMessageException">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:anyType" />
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/System" minOccurs="0" name="exception" nillable="true" type="q11:Exception" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalMessageExceptionResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalFormatArg">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalFormatArgResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalFormatParams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element xmlns:q12="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="args" nillable="true" type="q12:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalFormatParamsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalProviderFormatParams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="provider" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element xmlns:q13="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="args" nillable="true" type="q13:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalProviderFormatParamsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalFormatTwoArgs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg1" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalFormatTwoArgsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalFormatThreeArgs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg1" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg2" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FatalFormatThreeArgsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoMessage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoMessageResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoMessageException">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:anyType" />
+        <xs:element xmlns:q14="http://schemas.datacontract.org/2004/07/System" minOccurs="0" name="exception" nillable="true" type="q14:Exception" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoMessageExceptionResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoFormatArg">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoFormatArgResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoFormatParams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element xmlns:q15="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="args" nillable="true" type="q15:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoFormatParamsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoProviderFormatParams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="provider" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element xmlns:q16="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="args" nillable="true" type="q16:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoProviderFormatParamsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoFormatTwoArgs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="format" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="arg0" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="arg1" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InfoFormatTwoArgsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

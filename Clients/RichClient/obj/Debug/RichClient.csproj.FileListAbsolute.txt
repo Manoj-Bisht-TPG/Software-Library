@@ -1,0 +1,12 @@
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\Bin\Debug\RichClient.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\Bin\Debug\RichClient.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\Bin\Debug\AppManifest.xaml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\Bin\Debug\RichClient.xap
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\Bin\Debug\RichClientTestPage.html
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\obj\Debug\App.g.i.cs
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\obj\Debug\MainPage.g.i.cs
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\obj\Debug\RichClient.g.resources
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\obj\Debug\RichClient.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\obj\Debug\RichClient.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\RichClient\obj\Debug\XapCacheFile.xml

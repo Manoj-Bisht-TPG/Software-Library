@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TPG.SoftwareFactory.Services.LoggerService" CodeBehind="LoggerServices.svc.cs" %>
+

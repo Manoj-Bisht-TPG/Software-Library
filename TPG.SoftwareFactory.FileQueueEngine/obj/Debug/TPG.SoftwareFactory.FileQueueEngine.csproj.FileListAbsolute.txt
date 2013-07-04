@@ -1,0 +1,9 @@
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.FileQueueEngine\bin\Debug\TPG.SoftwareFactory.FileQueueEngine.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.FileQueueEngine\bin\Debug\TPG.SoftwareFactory.FileQueueEngine.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.FileQueueEngine\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.FileQueueEngine\bin\Debug\TPG.SoftwareFactory.Model.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.FileQueueEngine\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.FileQueueEngine\bin\Debug\TPG.SoftwareFactory.Model.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.FileQueueEngine\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.FileQueueEngine\obj\Debug\TPG.SoftwareFactory.FileQueueEngine.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.FileQueueEngine\obj\Debug\TPG.SoftwareFactory.FileQueueEngine.pdb

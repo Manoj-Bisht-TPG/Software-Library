@@ -1,0 +1,73 @@
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll.config
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.pdb
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.csprojResolveAssemblyReference.cache
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.dll
+C:\Users\Shyam.singh\Desktop\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\log4net.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.pdb
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.csprojResolveAssemblyReference.cache
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.dll
+D:\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\log4net.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.pdb
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\Shyam\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\log4net.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll.config
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\log4net.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.pdb
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.csprojResolveAssemblyReference.cache
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.dll
+D:\CC Works\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll.config
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\log4net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll.config
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\log4net.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\bin\Debug\TPG.SoftwareFactory.Model.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\TPG.SoftwareFactory.Service\obj\Debug\TPG.SoftwareFactory.Service.pdb

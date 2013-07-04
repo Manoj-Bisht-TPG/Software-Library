@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7f54bc5b-8e49-4855-84b7-bd40e0a6fef7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50980/LoggerServices.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="LoggerServices.xsd" MetadataType="Schema" ID="00268c5b-f04a-40bf-9972-8faa1b580f50" SourceId="1" SourceUrl="http://localhost:50980/LoggerServices.svc?xsd=xsd3" />
+    <MetadataFile FileName="LoggerServices4.xsd" MetadataType="Schema" ID="589c396d-9f60-44f4-8e26-b2df08d8128a" SourceId="1" SourceUrl="http://localhost:50980/LoggerServices.svc?xsd=xsd4" />
+    <MetadataFile FileName="LoggerServices.disco" MetadataType="Disco" ID="253a9517-a755-4490-a59b-f616eea2e3cf" SourceId="1" SourceUrl="http://localhost:50980/LoggerServices.svc?disco" />
+    <MetadataFile FileName="LoggerService.wsdl" MetadataType="Wsdl" ID="1f48fcdb-6bf9-4867-8733-6b87dd7fad6b" SourceId="1" SourceUrl="http://localhost:50980/LoggerServices.svc?wsdl" />
+    <MetadataFile FileName="LoggerServices1.xsd" MetadataType="Schema" ID="942975ea-5de7-4607-a604-78a5853a628e" SourceId="1" SourceUrl="http://localhost:50980/LoggerServices.svc?xsd=xsd0" />
+    <MetadataFile FileName="LoggerServices2.xsd" MetadataType="Schema" ID="8db869b8-8112-492d-a514-ad5597949442" SourceId="1" SourceUrl="http://localhost:50980/LoggerServices.svc?xsd=xsd1" />
+    <MetadataFile FileName="LoggerServices3.xsd" MetadataType="Schema" ID="5924c38b-ade0-4e44-a8f4-116386578d8b" SourceId="1" SourceUrl="http://localhost:50980/LoggerServices.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

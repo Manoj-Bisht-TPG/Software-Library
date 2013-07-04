@@ -1,0 +1,169 @@
+E:\Project\CC\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.exe
+E:\Project\CC\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.pdb
+E:\Project\CC\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.Properties.Resources.resources
+E:\Project\CC\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project\CC\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\CC\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.exe
+E:\Project\CC\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.exe.config
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.exe
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\log4net.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.ComponentFactory.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Contract.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.EnterpriseLibrary.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Logger.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Model.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Service.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.ServiceApp.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Services.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.ComponentFactory.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.EnterpriseLibrary.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Logger.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Model.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.ServiceApp.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Services.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Service.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.xml
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.csprojResolveAssemblyReference.cache
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\Client.StandAlone.FormLogger.resources
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.Properties.Resources.resources
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.csproj.GenerateResource.Cache
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.exe
+D:\CC Works\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.exe.config
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.exe
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\log4net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.ComponentFactory.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.EnterpriseLibrary.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Logger.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Model.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.ServiceApp.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Services.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.ComponentFactory.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.EnterpriseLibrary.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Logger.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Model.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.ServiceApp.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Services.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\Client.StandAlone.FormLogger.resources
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.Properties.Resources.resources
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.exe
+E:\Project\CC\TPG.SoftwareFactory\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.exe.config
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.exe
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\StandaloneClient.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\log4net.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.ComponentFactory.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Contract.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.EnterpriseLibrary.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Log4Net.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Logger.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Model.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Service.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.ComponentFactory.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Contract.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.EnterpriseLibrary.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Log4Net.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Logger.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Model.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.Service.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\Client.StandAlone.FormLogger.resources
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.Properties.Resources.resources
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.exe
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\obj\x86\Debug\StandaloneClient.pdb
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.QueueEngine.dll
+E:\Project\CC\Reusable Components\TPG.SoftwareFactory\Clients\StandaloneClient\bin\Debug\TPG.SoftwareFactory.QueueEngine.pdb
